@@ -1,0 +1,7 @@
+.git
+.env
+.mlflowops
+mlruns
+__pycache__
+.github
+tests
